@@ -36,7 +36,7 @@ namespace ClamAV_LoadTest.Controllers
 				//}
 
 				// test commit 1 - patch test 1
-				// test commit 2
+				// test commit 2 - patch test 2
 
 				return output;
 			}
