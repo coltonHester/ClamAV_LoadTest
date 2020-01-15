@@ -1,0 +1,16 @@
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\bin\Debug\netcoreapp2.1\ClamAV_LoadTest.deps.json
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\bin\Debug\netcoreapp2.1\ClamAV_LoadTest.runtimeconfig.json
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\bin\Debug\netcoreapp2.1\ClamAV_LoadTest.runtimeconfig.dev.json
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\bin\Debug\netcoreapp2.1\ClamAV_LoadTest.dll
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\bin\Debug\netcoreapp2.1\ClamAV_LoadTest.pdb
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.csprojAssemblyReference.cache
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.csproj.CoreCompileInputs.cache
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.RazorAssemblyInfo.cache
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.RazorAssemblyInfo.cs
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.AssemblyInfoInputs.cache
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.AssemblyInfo.cs
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.RazorTargetAssemblyInfo.cache
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.dll
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.pdb
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\bin\Debug\netcoreapp2.1\nClam.dll
+C:\Users\ColtonHester\source\repos\ClamAV_LoadTest\ClamAV_LoadTest\obj\Debug\netcoreapp2.1\ClamAV_LoadTest.csproj.CopyComplete
