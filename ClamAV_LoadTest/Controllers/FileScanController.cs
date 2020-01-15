@@ -35,6 +35,8 @@ namespace ClamAV_LoadTest.Controllers
 				//	file.WriteLine(logoutput);
 				//}
 
+				// test commit 1
+
 				return output;
 			}
 			catch (Exception ex) {
